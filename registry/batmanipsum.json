@@ -9,22 +9,20 @@
       "internal_builder_identifier": "robin-ipsum",
       "version": "v2",
       "latest": true,
-      "location": "git@github.com:hybris/chewie-sample-data.git",
+      "location": "https://github.com/hybris/docpad-skeleton-apidocs-sampledata.git",
       "docu_dir": "/content/services/batmanipsum",
       "branch_or_tag": "master",
-      "raml": "src/main/resources/api/batman-ipsum.raml",
-      "ramlInternal": "src/main/resources/api/batman-ipsum.raml"
+      "raml": "src/main/resources/api/batman-ipsum.raml"
     },
     {
       "builder_identifier": "batman-ipsum",
       "internal_builder_identifier": "robin-ipsum",
       "version": "v1",
       "latest": false,
-      "location": "git@github.com:hybris/chewie-sample-data.git",
+      "location": "https://github.com/hybris/docpad-skeleton-apidocs-sampledata.git",
       "docu_dir": "/content/services/batmanipsum",
       "branch_or_tag": "master",
-      "raml": "src/main/resources/api/batman-ipsum.raml",
-      "ramlInternal": "src/main/resources/api/batman-ipsum.raml"
+      "raml": "src/main/resources/api/batman-ipsum.raml"
     }
   ]
 }
