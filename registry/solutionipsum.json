@@ -1,9 +1,10 @@
 {
-    "name": "solutionsipsu",
+    "name": "Solution Ipsum",
     "type": "solutions",
     "source": [
         {
           "location": "https://github.com/hybris/docpad-skeleton-apidocs-sampledata.git",
+          "docu_dir": "/content/solutions/solutionsipsum",
           "branch_or_tag": "master"
         }
     ]
