@@ -1,0 +1,10 @@
+{
+    "name": "solutionsipsu",
+    "type": "solutions",
+    "source": [
+        {
+          "location": "https://github.com/hybris/docpad-skeleton-apidocs-sampledata.git",
+          "branch_or_tag": "master"
+        }
+    ]
+}
