@@ -4,7 +4,7 @@
     "source": [
         {
           "location": "https://github.com/hybris/docpad-skeleton-apidocs-sampledata.git",
-          "docu_dir": "/content/solutions/solutionsipsum",
+          "docu_dir": "/content/solutions/solutionipsum",
           "branch_or_tag": "master"
         }
     ]
