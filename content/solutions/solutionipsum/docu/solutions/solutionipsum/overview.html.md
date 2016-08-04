@@ -1,6 +1,6 @@
 ---
 title: 'Overview'
-topic: 'SolutionIpsum'
+topic: 'Solution Ipsum'
 order: 1
 ---
 
